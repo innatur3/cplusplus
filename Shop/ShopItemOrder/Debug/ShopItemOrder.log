@@ -1,0 +1,3 @@
+﻿  ShopItemOrder.cpp
+C:\Users\Vit\source\repos\ShopItemOrder\ShopItemOrder\ShopItemOrder.cpp(24,21): warning C4018: <: несоответствие типов со знаком и без знака
+  ShopItemOrder.vcxproj -> C:\Users\Vit\source\repos\ShopItemOrder\Debug\ShopItemOrder.exe

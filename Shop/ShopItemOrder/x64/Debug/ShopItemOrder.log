@@ -1,0 +1,3 @@
+﻿  ShopItemOrder.cpp
+C:\Users\Vit\source\repos\ShopItemOrder\ShopItemOrder\ShopItemOrder.cpp(31,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  ShopItemOrder.vcxproj -> C:\Users\Vit\source\repos\ShopItemOrder\x64\Debug\ShopItemOrder.exe
